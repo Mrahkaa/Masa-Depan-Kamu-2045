@@ -1,1 +1,31 @@
+/* === BASE === */
+body {
+  background: linear-gradient(135deg, #2A044A, #7B337D);
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
 
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* === FORM STYLE === */
+.form-group {
+  margin: 1.5rem 0;
+}
+
+select {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: 2px solid #FFD700;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 1rem;
+}
+
+/* ... (Tambahkan semua style sebelumnya di sini) ... */
